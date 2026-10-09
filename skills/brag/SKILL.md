@@ -100,6 +100,7 @@ Scan the project directory and extract the information needed to plan the brag v
 ## Step 2: Plan and storyboard
 
 **Read:** [references/step-2-plan.md](references/step-2-plan.md)
+**Skim:** [references/inspiration.md](references/inspiration.md) — real Opus 5.5 launch videos by tone, for hook and structure ideas. Borrow ideas, never content.
 
 Write `<output-dir>/brag-plan.md` (where `<output-dir>` is `brag-output/` or the timestamped variant chosen above). Answer the planning rubric. Commit to a creative angle. Write the beat-by-beat storyboard including scenes, text, timing, transitions, and SFX cues.
 

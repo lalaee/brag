@@ -4,6 +4,10 @@ Write `<output-dir>/brag-plan.md`. One focused page. This is the creative north 
 
 The plan should specify what the video must communicate and what project material must be used. It should not prescribe low-level Hyperframes implementation details. Hyperframes will decide the concrete composition structure, animation mechanics, and render workflow from the brief in Step 3.
 
+## Before committing to an angle
+
+Skim [inspiration.md](inspiration.md): the cross-tone patterns, plus the section for the tone you picked. It collects launch videos people made with Opus 5.5 and what worked in each. Take at most one or two ideas (a hook shape, a camera idea, a structure) and adapt them to this project. Never take another project's copy, claims, numbers or brand. The project still sets the angle; if nothing fits, skip it.
+
 ## Create the output directory
 
 ```bash

@@ -56,6 +56,8 @@ Write `brag-plan.md`: the angle, the hook, 2–3 highlights, the punchline, tone
 
 If the user points at one part — a new version, a new feature, one angle — make this the focus of the video.
 
+If `references/inspiration.md` sits next to this file (it does when /brag hands off here), skim its patterns and the section for your tone before picking the angle: real Opus 5.5 launch videos and what worked in each. Take one or two ideas at most, never another project's copy or claims. If the file isn't there, skip this.
+
 **Shape:** Hook (2–3s) → Reveal (2–4s) → 2–3 sharp highlights → Punchline/outro (2–4s). A starting shape, not a template.
 
 ## Creative laws

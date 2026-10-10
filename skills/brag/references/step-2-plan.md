@@ -6,7 +6,7 @@ The plan should specify what the video must communicate and what project materia
 
 ## Before committing to an angle
 
-Skim [inspiration.md](inspiration.md): the cross-tone patterns, plus the section for the tone you picked. It collects launch videos people made with Opus 5.5 and what worked in each. Take at most one or two ideas (a hook shape, a camera idea, a structure) and adapt them to this project. Never take another project's copy, claims, numbers or brand. The project still sets the angle; if nothing fits, skip it.
+Skim [inspiration.md](inspiration.md): what the videos show, plus the section for the tone you picked. It collects launch videos people made with Opus 5.5, each watched, with what is on screen and what worked. Take at most one or two ideas (a hook shape, a camera idea, a structure) and adapt them to this project. Never take another project's copy, claims, numbers or brand. The project still sets the angle; if nothing fits, skip it.
 
 ## Create the output directory
 
